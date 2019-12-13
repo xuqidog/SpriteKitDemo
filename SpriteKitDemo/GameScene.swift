@@ -6,6 +6,8 @@
 //  Copyright © 2019 XQD. All rights reserved.
 //
 
+//参考https://blog.csdn.net/qq_40040163/article/details/83270168
+
 import SpriteKit
 import GameplayKit
 
